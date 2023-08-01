@@ -19,10 +19,10 @@ Rails 7.0.6
 We will be using: 
 1. The NREL API:
   * Alternate fuel station - [nearest station endpoint](https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/nearest/): `/api/alt-fuel-stations/v1/nearest`
-  * Sign up for a key [here](https://developer.nrel.gov/signup/)
+  * Sign up for a key [here](https://developer.nrel.gov/signup/) K607DjrLUpisiipVP6krP1OmZyjKaSSFqH1QDLMT
 2. The MapQuest Directions API:
   * [endpoint](https://developer.mapquest.com/documentation/directions-api/route/get/): `/directions/v2/route`
-  * Sign up for a key [here](https://developer.mapquest.com/)
+  * Sign up for a key [here](https://developer.mapquest.com/) q9GT9RQfkLZIkNryf4wUh8h17yjTh5N4
 
 ### User Story 
 
