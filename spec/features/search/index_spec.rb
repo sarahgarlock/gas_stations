@@ -20,7 +20,6 @@ RSpec.describe '/search' do
     end
 
     it 'shows directions' do
-      save_and_open_page
       expect(page).to have_content("Head east. Go for 125 ft.")
       expect(page).to have_content("Turn left. Go for 197 ft.")
       expect(page).to have_content("Turn right toward W 22nd Ave. Go for 115 ft.")
